@@ -13,4 +13,5 @@ Setting up GitHub and checking your knowledge of Javascript
 10. Type "git add <filename>"
 11. Type "git commit", enter a description in the pop-up, save and close.
 12. Type "git push". Refresh the page on GitHub and make sure your file is there.
-13. Submit the URL of your fork to Canvas. That's it.
+13. Submit the URL of your fork to Canvas. That's it. Memes
+Memes amirite?
